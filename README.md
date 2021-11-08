@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kartik11721
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning django
+- 👀 I’m a programmer
+- 🌱 I’m currently learning javascript
 - 📫 Email - kartik11721@gmail.com
-
