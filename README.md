@@ -1,6 +1,6 @@
 # Hi there, I'm Kartik Kumar 👋 
 
-![Kartik Kumar](https://github.com/kartik11721/kartik11721/img/kartikkumar.jpg?raw=true)
+![Kartik Kumar](./kartik11721/img/kartikkumar.jpg?raw=true)
 
 ## I'm a Student, Developer!!
 
