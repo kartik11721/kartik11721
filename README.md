@@ -34,8 +34,8 @@
 <br />
 <hr>
 <br />
-<a href="mailto:kartik11721@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-kartik11721@gmail.com 
+<a href="mailto:kartik11721@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a><br />
+(kartik11721@gmail.com) 
 
 [instagram]: https://instagram.com/kartik11721
 [linkedin]: https://linkedin.com/in/kartik11721
