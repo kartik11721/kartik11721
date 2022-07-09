@@ -1,4 +1,4 @@
-# Hi there, I'm Kartik Kumar 👋 
+# Hi there, I'm Kartik Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 ![Kartik Kumar](./img/kartikkumar.jpg?raw=true)
 
