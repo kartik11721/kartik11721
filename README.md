@@ -8,7 +8,7 @@
 - 👯 I’m looking to work with other programmers
 - 🥅 2022 Goals: Learn more about Tensorflow
 - ⚡ Fun fact: I love to travel, play games and play guitar.
-- 📧 Contact me [@email](mailto:kartik11721@gmail.com?subject=[GitHub%20Source%20Han%20Sans)
+- 📧 Contact me [kartik11721@gmail.com](mailto:kartik11721@gmail.com?subject=[GitHub%20Source%20Han%20Sans)
 
 ### Connect with me:
 
