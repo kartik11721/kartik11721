@@ -1,5 +1,7 @@
 # Hi there, I'm Kartik Kumar 👋 
 
+![Kartik Kumar](https://github.com/kartik11721/kartik11721/blob/img/kartikkumar.jpg?raw=true)
+
 ## I'm a Student, Developer!!
 
 - 🌱 I’m currently learning Machine Learning
