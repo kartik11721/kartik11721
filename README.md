@@ -56,7 +56,8 @@
 
 ### 📫 Reach me at
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kartik11721@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a><br/><a href="mailto:kartik11721@gmail.com">kartik11721@gmail.com</a>
+<code><a href="mailto:kartik11721@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a></code>
+<code><a href="https://www.linkedin.com/in/kartik11721/"><img alt="Kartik's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a></code>
 <!-- <a href="https://www.linkedin.com/in/arpita-halder-8718b413b/">
   <img align="left" alt="Arpita's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
