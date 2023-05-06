@@ -16,7 +16,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/kartik11721#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/kartik11721#gh-dark-mode-only)
-
+<!-- 
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
@@ -34,11 +34,37 @@
 
 
 <br />
-<br />
+<br /> -->
 <hr>
 <br />
 <a href="mailto:kartik11721@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a><br />
 kartik11721@gmail.com
+### 📫 Reach me at
+<a href="https://www.linkedin.com/in/arpita-halder-8718b413b/">
+  <img align="left" alt="Arpita's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:arpitahalder739@gmail.com?">
+  <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</a>
+
+<hr>
+
+###  :desktop_computer: Skilled in 
+
+
+#### Languages:
+<code><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></code>
+<code><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></code>
+
+#### ML/DL:
+<code><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></code>
+<code><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/></code>
+<code><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></code>
+<code><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /></code>
+<code><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></code>
+<code><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /></code>
+
+<hr>
 
 [instagram]: https://instagram.com/kartik11721
 [linkedin]: https://linkedin.com/in/kartik11721
