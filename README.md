@@ -11,15 +11,13 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/kartik11721#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/kartik11721#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/kartik11721#gh-light-mode-only)[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/kartik11721#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/kartik11721#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/kartik11721#gh-dark-mode-only)
-<!-- 
-### Languages and Tools:
+[![website](./img/instagram-light.svg)](https://instagram.com/kartik11721#gh-light-mode-only)[![website](./img/instagram-dark.svg)](https://instagram.com/kartik11721#gh-dark-mode-only)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
+<!-- ### Languages and Tools: -->
+
+<!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />]()
@@ -30,24 +28,14 @@
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]() -->
 
 
-<br />
-<br /> -->
+<!-- <br /> -->
+<!-- <br /> -->
 <hr>
-<br />
-<a href="mailto:kartik11721@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a><br />
-kartik11721@gmail.com
-### 📫 Reach me at
-<a href="https://www.linkedin.com/in/arpita-halder-8718b413b/">
-  <img align="left" alt="Arpita's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:arpitahalder739@gmail.com?">
-  <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</a>
+<!-- <br /> -->
 
-<hr>
 
 ###  :desktop_computer: Skilled in 
 
@@ -66,5 +54,16 @@ kartik11721@gmail.com
 
 <hr>
 
-[instagram]: https://instagram.com/kartik11721
-[linkedin]: https://linkedin.com/in/kartik11721
+### 📫 Reach me at
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kartik11721@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a><br/><a href="mailto:kartik11721@gmail.com">kartik11721@gmail.com</a>
+<!-- <a href="https://www.linkedin.com/in/arpita-halder-8718b413b/">
+  <img align="left" alt="Arpita's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:arpitahalder739@gmail.com?">
+  <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</a>
+ -->
+<hr>
+<!-- [instagram]: https://instagram.com/kartik11721
+[linkedin]: https://linkedin.com/in/kartik11721 -->
