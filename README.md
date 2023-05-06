@@ -4,9 +4,9 @@
 
 ## I'm a Student, Developer!!
 
-- 🌱 I’m currently learning Machine Learning Algorithms
-- 👯 I’m looking to work with other programmers
-- 🥅 2023 Goals: Learn more about Tensorflow
+- 🌱 I’m currently making Deep Learning Projects
+- 👯 I’m looking to work with other experts
+- 🥅 2023 Goals: Explore Deeper into the Neural Networks
 - ⚡ Fun fact: I love to travel, play games and play guitar.
 
 ### Connect with me:
