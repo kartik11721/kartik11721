@@ -9,9 +9,9 @@
 - 🥅 2023 Goals: Explore Deeper into the Neural Networks
 - ⚡ Fun fact: I love to travel, play games and play guitar.
 
-</center>
+</center><hr><br/>
 
-<img align='left' height='220' style="margin-right:20px" src='assets/firmware.svg' alt='Mudar imagem'>
+<img align='left' height='220' style="margin-right:20px" src='img/firmware.svg' alt=''>
 
 ```tsx
 import React from "react";
@@ -27,7 +27,7 @@ const Profile = () => {
 export default Profile;
 ```
 
-<img align='right' height='170' style="margin-left:20px" src='assets/programming.svg' alt='Mudar imagem'>
+<img align='right' height='170' style="margin-left:20px" src='img/programming.svg' alt=''>
 
 ```tsx
 (function repeat() {
