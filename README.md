@@ -19,7 +19,7 @@ import React from "react";
 const Profile = () => {
   return {
       name: "Kartik Kumar",
-      gender: "Male"
+      gender: "Male",
       hobbies: ["Anime", "Music"],
   }
 };
