@@ -9,6 +9,39 @@
 - 🥅 2023 Goals: Explore Deeper into the Neural Networks
 - ⚡ Fun fact: I love to travel, play games and play guitar.
 
+</center>
+
+<img align='left' height='220' style="margin-right:20px" src='assets/firmware.svg' alt='Mudar imagem'>
+
+```tsx
+import React from "react";
+
+const Profile = () => {
+  return {
+      name: "Kartik Kumar",
+      gender: "Male"
+      hobbies: ["Anime", "Music"],
+  }
+};
+
+export default Profile;
+```
+
+<img align='right' height='170' style="margin-left:20px" src='assets/programming.svg' alt='Mudar imagem'>
+
+```tsx
+(function repeat() {
+  eat();
+  sleep();
+  code();
+  learn();
+  repeat();
+})();
+```
+
+</div>
+
+
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/kartik11721#gh-light-mode-only)[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/kartik11721#gh-dark-mode-only)
