@@ -9,7 +9,7 @@
 - 🥅 2023 Goals: Explore Deeper into the Neural Networks
 - ⚡ Fun fact: I love to travel, play games and play guitar.
 
-</center><hr><br/>
+</center><hr>
 
 <img align='left' height='220' style="margin-right:20px" src='img/firmware.svg' alt=''>
 
