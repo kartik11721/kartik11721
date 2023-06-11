@@ -4,9 +4,9 @@
 
 ## I'm a Student, Developer!!
 
-- 🌱 I’m currently making Deep Learning Projects
+- 🌱 I’m currently working as a ML Engineer
 - 👯 I’m looking to work with other experts
-- 🥅 2023 Goals: Explore Deeper into the Neural Networks
+- 🥅 2023 Goals: Explore Deeper into the LLMs
 - ⚡ Fun fact: I love to travel, play games and play guitar.
 
 </center><hr>
