@@ -2,12 +2,11 @@
 
 ![Kartik Kumar](./img/kartikkumar1.png?raw=true)
 
-## I'm a Student, Developer!!
+## I'm a Software Engineer!!
 
-- 🌱 I’m currently working as a ML Engineer
-- 👯 I’m looking to work with other experts
-- 🥅 2023 Goals: Explore Deeper into the LLMs
-- ⚡ Fun fact: I love to travel, play games and play guitar.
+- 🌱 I’m currently working as a ML Engineer.
+- 👯 I’m looking to connect with other experts.
+- ⚡ Fun fact: I love to travel, play games and watch documentaries.
 
 </center><hr>
 
@@ -20,7 +19,7 @@ const Profile = () => {
   return {
       name: "Kartik Kumar",
       gender: "Male",
-      hobbies: ["Anime", "Music"],
+      role: ["ML Engineer"],
   }
 };
 
