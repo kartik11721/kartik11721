@@ -4,7 +4,7 @@
 
 ## I'm a Software Engineer!!
 
-- 🌱 I’m currently working as a ML Engineer.
+- 🌱 I’m currently working as a Software Engineer in AI/ML.
 - 👯 I’m looking to connect with other experts.
 - ⚡ Fun fact: I love to travel, play games and watch documentaries.
 
