@@ -2,7 +2,7 @@
 
 ![Kartik Kumar](./img/kartikkumar1.png?raw=true)
 
-## I'm a Software Engineer!!
+## I'm a ML Engineer!!
 
 - 🌱 I’m currently working as a Software Engineer in AI/ML.
 - 👯 I’m looking to connect with other experts.
