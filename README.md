@@ -2,12 +2,6 @@
 
 ![Kartik Kumar](./img/kartikkumar1.png?raw=true)
 
-## I'm a ML Engineer!!
-
-- 🌱 I’m currently working as a Software Engineer in AI/ML.
-- 👯 I’m looking to connect with other experts.
-- ⚡ Fun fact: I love to travel, play games and watch documentaries.
-
 </center><hr>
 
 <img align='left' height='220' style="margin-right:20px" src='img/firmware.svg' alt=''>
